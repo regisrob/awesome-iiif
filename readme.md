@@ -366,6 +366,7 @@ IIIF is a community-based initiative that relies on active participation, discus
 ## Digital Asset Management (DAMs) that support IIIF
 
  - [Axiell Collections](https://www.axiell.com/solutions/product/axiell-collections/)
+ - [Archipelago](https://archipelago.nyc/)
  - [CollectiveAccess](https://collectiveaccess.org)
  - [ContentDM](https://www.oclc.org/en/contentdm/iiif.html)
  - [Goobi](https://goobi.io)
